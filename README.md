@@ -3,6 +3,7 @@ Gameplay Video Link : https://drive.google.com/file/d/1l4PUaXuUW4MOWvFoox3eGixp4
 
 
 ------------------------------------------------------------ TR ------------------------------------------------------------
+
 Arkadaşımla steam üzerinden 1 vs 1 pvp yaptığımız, pörtföy amaçlı geliştirdiğim proje (Geliştirme süresi işten kalan vakitlerde yaklaşık 2.5 hafta)
 
 Proje öne çıkan özellikleri (tamamen multiplayer odaklı tasarlandı):
@@ -22,6 +23,7 @@ Proje öne çıkan özellikleri (tamamen multiplayer odaklı tasarlandı):
 
 
  ------------------------------------------------------------ EN ------------------------------------------------------------
+
 My project developed for portfolio purposes — a 1v1 PvP title played with a friend over Steam (Development time: approx. 2.5 weeks during off-work hours)
 
 Highlighted Features of the Project (Fully designed with multiplayer focus):
