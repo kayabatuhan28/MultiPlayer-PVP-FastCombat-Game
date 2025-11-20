@@ -7,7 +7,7 @@ Arkadaşımla steam üzerinden 1 vs 1 pvp yaptığımız, pörtföy amaçlı gel
 
 Proje öne çıkan özellikleri (tamamen multiplayer odaklı tasarlandı):
 - Mage ve Assassin olmak üzere 2 farklı class mevcut.
-- Combat hızlı ve akıcı bir şekilde olacak şekilde kodlandı.
+- Combat hızlı ve akıcı olacak bir şekilde kodlandı.
 - Multiplayer bağlantı kısmı için Steam Online Subsystem kullanıldı.
 - 2 classında 7 adet skili mevcut. Oyun başladığı sırada herhangi bir classı seçerek pvp başlamakta.
 - Animasyonların hemen hepsine key atıp editlemem gerekti(ileri atılma, yükseğe zıplama, animasyonların bazı framelerinin kesilmesi veya farklı animasyonların birleştirilmesi, bazı animasyonlarda hand upperarm ve claviclenin key atıp editlenmesi vs..)
