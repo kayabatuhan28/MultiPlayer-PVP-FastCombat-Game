@@ -14,12 +14,12 @@ Proje öne çıkan özellikleri (tamamen multiplayer odaklı tasarlandı):
 - Animasyonların hemen hepsine key atıp editlemem gerekti(ileri atılma, yükseğe zıplama, animasyonların bazı framelerinin kesilmesi veya farklı animasyonların birleştirilmesi, bazı animasyonlarda hand upperarm ve claviclenin key atıp editlenmesi vs..)
 - Skiller dışında normal vuruş , 4 yönlü dash veya tp(assassin dash / mage tp), 4 yönlü dodge(roll şeklinde) mevcut.
 - Her bir skilin kendince bir Buff veya Debuff etkisi mevcut;
- Burn : Belli bir süreliğine rakibi yakarak saniyelik hasar verir
- Silence : Belli bir süreliğine rakibi susturma 
+ Burn : Belli bir süreliğine rakibi yakarak saniyelik hasar verir.
+ Silence : Belli bir süreliğine rakibi susturma .
  (Skill atmasını engeller, dash veya roll atılabilir)
  Slow : Belli bir süreliğine yürüme hızını düşürür.
- Blind : Belli bir süreliğine ekrana flash effekti verir. Oyuncuyu kör eder
- LifeSteal : Hasarın belli bir yüzdesine göre rakipten can çeker
+ Blind : Belli bir süreliğine ekrana flash effekti verir. Oyuncuyu kör eder.
+ LifeSteal : Hasarın belli bir yüzdesine göre rakipten can çeker.
 
 
  ------------------------------------------------------------ EN ------------------------------------------------------------
